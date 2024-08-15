@@ -1,10 +1,5 @@
 aiohttp==3.9.1
 aiosignal==1.3.1
-ampl-module-base==20240404
-ampl-module-cbc==20240115
-ampl-module-cplex==20240320
-ampl-module-gurobi==20240327
-ampl-module-highs==20240320
 amplpy==0.13.3
 ampltools==0.7.5
 annotated-types==0.6.0
