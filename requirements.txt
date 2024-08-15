@@ -1,5 +1,6 @@
 aiohttp==3.9.1
 aiosignal==1.3.1
+ampl-module-base==20240404
 ampl-module-cbc==20240115
 ampl-module-cplex==20240320
 ampl-module-gurobi==20240327
